@@ -1,4 +1,1 @@
-vagrant-at-iqss
-===============
-
-Use of Vagrant at IQSS
+source for http://iqss.github.io/vagrant-at-iqss
