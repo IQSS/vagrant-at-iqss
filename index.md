@@ -2,6 +2,8 @@
 layout: default
 title: The Tech Talk
 ---
+<img src="./images/vagrant-logo-old.png" align="right">
+
 ## What is Vagrant?
 
 "Development environments made easy. Create and configure lightweight, reproducible, and portable development environments." -- http://vagrantup.com
@@ -11,6 +13,10 @@ title: The Tech Talk
 ## Example: DVN install demo
 
 https://github.com/dvn/dvn-install-demo
+
+<img src="./images/dvn-vagrant-windows.png" height="384px" width="683px">
+
+From https://groups.google.com/d/msg/dataverse-community/wRxRSGE8VpQ/zgU6AOHVRZwJ
 
 ## Example: Puppet configs for http://irclog.iq.harvard.edu
 
