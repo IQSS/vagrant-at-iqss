@@ -38,6 +38,8 @@ https://github.com/dvn/dvn-netbeans
 
 <img src="./images/netbeans.png" height="273px" width="371px">
 
+http://devguide.thedata.org
+
 ---
 
 ## Example: Shibboleth proof of concept
@@ -45,6 +47,8 @@ https://github.com/dvn/dvn-netbeans
 https://github.com/dvn/shibpoc
 
 <img src="./images/testshib.png" height="510px" width="815px">
+
+https://redmine.hmdc.harvard.edu/issues/2657
 
 ---
 
