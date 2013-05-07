@@ -10,6 +10,8 @@ title: The Tech Talk
 
 "Using virtual machines running locally on your workstation, Vagrant lets you define the environment your application will run in and quickly iterate on both your application and its environment." -- http://wiki.greptilian.com/vagrant
 
+---
+
 ## Example: DVN install demo
 
 https://github.com/dvn/dvn-install-demo
@@ -18,21 +20,39 @@ https://github.com/dvn/dvn-install-demo
 
 From https://groups.google.com/d/msg/dataverse-community/wRxRSGE8VpQ/zgU6AOHVRZwJ
 
+---
+
 ## Example: Puppet configs for http://irclog.iq.harvard.edu
 
 https://github.com/dvn/iqirclog-vagrant
+
+<img src="./images/irclog.png" height="546px" width="831px">
+
+---
 
 ## Example: DVN dev environment
 
 https://github.com/dvn/dvn-netbeans
 
+<img src="./images/netbeans.png" height="273px" width="371px">
+
+---
+
 ## Example: Shibboleth proof of concept
 
 https://github.com/dvn/shibpoc
 
+<img src="./images/testshib.png" height="510px" width="815px">
+
+---
+
 ## Example: IQSS Java EE template
 
 https://github.com/IQSS/iqss-javaee-template
+
+<img src="./images/solr.png" height="375px" width="400px">
+
+---
 
 ## Fork this talk on GitHub
 
