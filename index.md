@@ -58,6 +58,10 @@ https://github.com/IQSS/iqss-javaee-template
 
 <img src="./images/solr.png" height="375px" width="400px">
 
+https://github.com/IQSS/iqss-javaee-template/tree/master/examples/web/hello1/src/main/webapp
+
+https://github.com/IQSS/iqss-javaee-template/tree/master/examples/web/hello1/src/main/java/javaeetutorial/web/hello1
+
 ---
 
 ## Non-IQSS Examples
