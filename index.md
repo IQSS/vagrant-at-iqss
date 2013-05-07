@@ -24,6 +24,16 @@ From https://groups.google.com/d/msg/dataverse-community/wRxRSGE8VpQ/zgU6AOHVRZw
 
 ---
 
+## Example: Shibboleth proof of concept
+
+https://github.com/dvn/shibpoc
+
+<img src="./images/testshib.png" height="510px" width="815px">
+
+https://redmine.hmdc.harvard.edu/issues/2657
+
+---
+
 ## Example: Puppet configs for http://irclog.iq.harvard.edu
 
 https://github.com/dvn/iqirclog-vagrant
@@ -39,16 +49,6 @@ https://github.com/dvn/dvn-netbeans
 <img src="./images/netbeans.png" height="273px" width="371px">
 
 http://devguide.thedata.org
-
----
-
-## Example: Shibboleth proof of concept
-
-https://github.com/dvn/shibpoc
-
-<img src="./images/testshib.png" height="510px" width="815px">
-
-https://redmine.hmdc.harvard.edu/issues/2657
 
 ---
 
