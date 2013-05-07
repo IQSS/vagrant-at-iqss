@@ -81,6 +81,8 @@ https://github.com/IQSS/iqss-javaee-template
 - shared/synced folders
 - `vagrant destroy`
 
+---
+
 ## Fork this talk on GitHub
 
 The source for this talk: https://github.com/IQSS/vagrant-at-iqss
